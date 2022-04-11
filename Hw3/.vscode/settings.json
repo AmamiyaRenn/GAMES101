@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"algorithm": "cpp",
+		"optional": "cpp"
+	},
+	"cmake.sourceDirectory": "${workspaceFolder}/G101T3"
+}

@@ -1,0 +1,3 @@
+//home/ren/Study/GAMES101/Hw4/G101T3/build/CMakeFiles/rebuild_cache.dir
+//home/ren/Study/GAMES101/Hw4/G101T3/build/CMakeFiles/edit_cache.dir
+//home/ren/Study/GAMES101/Hw4/G101T3/build/CMakeFiles/BezierCurve.dir

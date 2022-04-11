@@ -1,0 +1,25 @@
+[
+{
+  "directory": "//home/ren/Study/GAMES101/Hw3/G101T3/build",
+  "command": "/usr/bin/g++   -I.././include -isystem /usr/local/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/main.cpp.o -c //home/ren/Study/GAMES101/Hw3/G101T3/main.cpp",
+  "file": "//home/ren/Study/GAMES101/Hw3/G101T3/main.cpp"
+},
+
+{
+  "directory": "//home/ren/Study/GAMES101/Hw3/G101T3/build",
+  "command": "/usr/bin/g++   -I.././include -isystem /usr/local/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c //home/ren/Study/GAMES101/Hw3/G101T3/rasterizer.cpp",
+  "file": "//home/ren/Study/GAMES101/Hw3/G101T3/rasterizer.cpp"
+},
+
+{
+  "directory": "//home/ren/Study/GAMES101/Hw3/G101T3/build",
+  "command": "/usr/bin/g++   -I.././include -isystem /usr/local/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c //home/ren/Study/GAMES101/Hw3/G101T3/Triangle.cpp",
+  "file": "//home/ren/Study/GAMES101/Hw3/G101T3/Triangle.cpp"
+},
+
+{
+  "directory": "//home/ren/Study/GAMES101/Hw3/G101T3/build",
+  "command": "/usr/bin/g++   -I.././include -isystem /usr/local/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c //home/ren/Study/GAMES101/Hw3/G101T3/Texture.cpp",
+  "file": "//home/ren/Study/GAMES101/Hw3/G101T3/Texture.cpp"
+}
+]

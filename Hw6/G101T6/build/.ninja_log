@@ -1,0 +1,23 @@
+# ninja log v5
+0	284	1649407816500209886	CMakeFiles/RayTracing.dir/Vector.cpp.o	3b1a82f4c54d7e0
+1	491	1649407816708205133	CMakeFiles/RayTracing.dir/Scene.cpp.o	126c6758b1917ea4
+1	504	1649407816720204859	CMakeFiles/RayTracing.dir/Renderer.cpp.o	951e6ea3f964192b
+1	563	1649407816780203489	CMakeFiles/RayTracing.dir/BVH.cpp.o	c4bcdf57835afdda
+0	1173	1649407817388189604	CMakeFiles/RayTracing.dir/main.cpp.o	180ad02385f5f78f
+0	499	1649407878202835373	CMakeFiles/RayTracing.dir/Renderer.cpp.o	951e6ea3f964192b
+0	499	1649407878202835373	CMakeFiles/RayTracing.dir/Scene.cpp.o	126c6758b1917ea4
+0	568	1649407878270833896	CMakeFiles/RayTracing.dir/BVH.cpp.o	c4bcdf57835afdda
+0	1197	1649407878898820255	CMakeFiles/RayTracing.dir/main.cpp.o	180ad02385f5f78f
+0	506	1649407951313290494	CMakeFiles/RayTracing.dir/Scene.cpp.o	126c6758b1917ea4
+1	528	1649407951337290000	CMakeFiles/RayTracing.dir/Renderer.cpp.o	951e6ea3f964192b
+0	590	1649407951401288684	CMakeFiles/RayTracing.dir/BVH.cpp.o	c4bcdf57835afdda
+0	1196	1649407952005276267	CMakeFiles/RayTracing.dir/main.cpp.o	180ad02385f5f78f
+1	514	1649408005824190878	CMakeFiles/RayTracing.dir/Renderer.cpp.o	951e6ea3f964192b
+0	539	1649408005848190403	CMakeFiles/RayTracing.dir/Scene.cpp.o	126c6758b1917ea4
+1	585	1649408005892189532	CMakeFiles/RayTracing.dir/BVH.cpp.o	c4bcdf57835afdda
+0	1246	1649408006556176392	CMakeFiles/RayTracing.dir/main.cpp.o	180ad02385f5f78f
+0	496	1649408065191038245	CMakeFiles/RayTracing.dir/Scene.cpp.o	126c6758b1917ea4
+0	505	1649408065203038017	CMakeFiles/RayTracing.dir/Renderer.cpp.o	951e6ea3f964192b
+0	566	1649408065263036874	CMakeFiles/RayTracing.dir/BVH.cpp.o	c4bcdf57835afdda
+0	1226	1649408065923024304	CMakeFiles/RayTracing.dir/main.cpp.o	180ad02385f5f78f
+1226	1315	1649408066011022628	RayTracing	65a2ed5b2226583b

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "//home/ren/Study/GAMES101/Hw4/G101T3/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv  -g   -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c //home/ren/Study/GAMES101/Hw4/G101T3/main.cpp",
+  "file": "//home/ren/Study/GAMES101/Hw4/G101T3/main.cpp"
+}
+]

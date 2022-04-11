@@ -1,0 +1,3 @@
+/home/ren/Study/GAMES101/Hw6/G101T6/build/CMakeFiles/rebuild_cache.dir
+/home/ren/Study/GAMES101/Hw6/G101T6/build/CMakeFiles/edit_cache.dir
+/home/ren/Study/GAMES101/Hw6/G101T6/build/CMakeFiles/RayTracing.dir
